@@ -28,3 +28,6 @@ To use the Tron auto-withdrawal bot, you'll need to follow these steps:
 
 ## Auto withdrawal bot for trust wallet available
 **Built using python and can auot withdraw BTC,BNB,AVA,MATIC,ETH**
+
+` keywords `
+Trust Wallet ETH BNB Auto-withdrawal Bot Cryptocurrency Smart contract Automated transactions Decentralized finance Blockchain technology Wallet automation ERC20 tokens BEP20 tokensNode.jsPrivate keyGas feesWithdrawal limitsAPI integrationOpen-sourceSmart contract interaction
