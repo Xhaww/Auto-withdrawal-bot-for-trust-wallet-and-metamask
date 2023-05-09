@@ -1,7 +1,7 @@
 # :boat: ` Auto-withdrawal-bot-for-trust-wallet-and-metamask `
 ### 📩 **Message me on [Telegram](https://t.me/Markcassen) to buy the clean source codes.**
 ---
-## :fire:	This repository contains the source code for a Tron auto-withdrawal bot. The bot is designed to automatically withdraw eth,bnb from your account to a specified TRX address.Works with trust wallet
+## :fire:	This repository contains the source code for a auto-withdrawal bot. The bot is designed to automatically withdraw eth,bnb from your account to a specified address.Works with trust wallet
 ---
 ## `What's included:`
 :sparkles:	Clean Source Code
