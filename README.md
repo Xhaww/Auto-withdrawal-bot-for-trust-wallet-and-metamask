@@ -4,7 +4,7 @@
 ## :fire:	This repository contains the source code for a auto-withdrawal bot. The bot is designed to automatically withdraw eth,bnb from your account to a specified address.Works with trust wallet
 ---
 ## `What's included:`
-:sparkles:	Clean Source Code
+:sparkles:	Clean Source Code 
 
 :sparkles:	Instructions
 
